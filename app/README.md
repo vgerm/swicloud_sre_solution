@@ -112,7 +112,7 @@ optional arguments:
                         api authentication token, if empty, default is used
   --version             show programs version number and exit
 
-# Generate data
+# Generate random data
 $ python timesink.py data.json > ./metrics.json
 
 # Upload metrics via docker container
